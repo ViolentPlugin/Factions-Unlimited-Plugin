@@ -1,0 +1,12 @@
+author: ViolentNinjaD
+database: false
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: violentninjad.plugins.factionsunlimited.FactionsUnlimited
+name: FactionsUnlimited
+startup: postworld
+url: http://factionsunlimited.enjin.com/home
+version: OFFICIAL
+commands:
+  pvparena:
+    description: Teleports you to the PvP Arena.
+    usage: /<command>
