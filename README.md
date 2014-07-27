@@ -7,4 +7,5 @@ Downloads
 ----------
 
 The first alpha releases will be coming soon...
+For now though, here's [our website!](http://oblivioncraftplugin.tk/)
 
