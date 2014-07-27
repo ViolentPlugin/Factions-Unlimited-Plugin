@@ -1,7 +1,7 @@
-Oblivion-Craft-Plugin
+Factions Unlimited Plugin
 =====================
 
-A Bukkit Plugin for my friend's server, Oblivion Craft.
+A Bukkit Plugin for my friend's server, Factions Unlimited!
 
 Downloads
 ----------
