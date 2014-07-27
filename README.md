@@ -1,4 +1,4 @@
-Oblivion-Craft-Plugin
+Factions Unlimited Plugin
 =====================
 
 A Bukkit Plugin for my friend's server, Factions Unlimited!
