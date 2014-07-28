@@ -10,3 +10,21 @@ commands:
   pvparena:
     description: Teleports you to the PvP Arena.
     usage: /<command>
+  factionarea:
+    description: Teleports you to the Faction Spawn.
+    usage: /<command>
+  bannedlist:
+    description: Gives you a list of banned players!
+    usage: /<command>
+  unlimitedkits:
+    description: Some custom kits!
+    usage /<command> <args>
+permissions:
+  factionsunlimited.bannedlist
+    description: Gives access to the banned players list!
+    default: op
+  unlimitedkits.godmode
+    description: Gives access to a really awesome kit!
+    default: op
+  
+  
